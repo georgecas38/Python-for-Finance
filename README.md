@@ -1,12 +1,10 @@
 # Python-for-Finance
 
-### During the summer of 2022, I decided to learn how to apply
-### the quant fundamentals I learned during grad school (MSF)
-### using python
+### During the summer of 2022, I decided to learn how to apply the finance 
+### fundamentals I learned during grad school (MSF) using python
 
-### The files I have uploaded in this reprository 
-### are created by me and are based on the lecture slides and 
-### exercises of the course 
+### The files I have uploaded in this reprository are created
+### by me and are based on the lecture slides and exercises of the course
 
 ### Python for Finance: Investment Fundamentals and Data Analytics
 
