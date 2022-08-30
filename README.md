@@ -15,5 +15,5 @@
 
 #### The topics include:
 #### Rates of return of stocks, portfolio rate of return, volatility of stocks and portfolios,
-#### covariance and correlation matrix, regression/multivariate analysis, the efficient frontier, #### the CAPM, beta coefficients, Sharpe's capital market line, 
-#### Monte Carlo simulation and Black Scholes Merton 
+#### covariance and correlation matrix, regression/multivariate analysis, the efficient frontier, #### the CAPM, beta coefficients, 
+#### Sharpe's capital market line, Monte Carlo simulation and Black Scholes Merton 
